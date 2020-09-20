@@ -1,6 +1,6 @@
 ---
-title: "Using getStaticProps For Fetching External Data"
-date: "2020-09-20"
+title: "Next.js - Using getStaticProps to Fetch External Data"
+date: "2020-09-17"
 ---
 
 We are going to be looking at **Static Generation** with data using getStaticProps.

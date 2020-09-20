@@ -1,6 +1,6 @@
 ---
-title: "Dynamic Routing in Next.js"
-date: "2020-09-20"
+title: "Next.js - Dynamic Routing"
+date: "2020-09-18"
 ---
 
 Let's talk about when we want each page path to depend on external data (Dynamic Routing). Next.js allows you to statically generate pages with paths that depend on external data. This enables **dynamic URLs** in Next.js.
