@@ -19,7 +19,7 @@ export default function Layout({
         <link rel="icon" href="/favicon.ico" />
         <meta
           name="description"
-          content="Learn how to build a personal website using Next.js"
+          content="Learning new things and writing it down in this blog"
         />
         <meta
           property="og:image"
@@ -33,17 +33,21 @@ export default function Layout({
       <header className={styles.header}>
         {home ? (
           <>
-            <img
-              src="/images/profile.jpg"
-              className={`${styles.headerHomeImage} ${utilStyles.borderCircle}`}
-              alt={name}
-            />
-            <h1 className={utilStyles.heading2Xl}>{name}</h1>
+            <a href="https://github.com/mattszeto">
+              <img
+                src="/images/profile.jpg"
+                className={`${styles.headerHomeImage} ${utilStyles.borderCircle}`}
+                alt={name}
+              />
+            </a>
+            <a href="https://github.com/mattszeto">
+              <h1 className={utilStyles.heading2Xl}>{name}</h1>
+            </a>
           </>
         ) : (
           <>
             <Link href="/">
-              <a>
+              <a href="https://github.com/mattszeto">
                 <img
                   src="/images/profile.jpg"
                   className={`${styles.headerImage} ${utilStyles.borderCircle}`}
@@ -53,7 +57,12 @@ export default function Layout({
             </Link>
             <h2 className={utilStyles.headingLg}>
               <Link href="/">
-                <a className={utilStyles.colorInherit}>{name}</a>
+                <a
+                  href="https://github.com/mattszeto"
+                  className={utilStyles.colorInherit}
+                >
+                  {name}
+                </a>
               </Link>
             </h2>
           </>
