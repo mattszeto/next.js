@@ -1,6 +1,7 @@
 ---
-title: "Next.js - API Routing"
+title: "API Routing in Next.js"
 date: "2020-09-19"
+tag: "Next.js"
 ---
 
 **API routing** lets you create API endpoints inside of a Next.js application.

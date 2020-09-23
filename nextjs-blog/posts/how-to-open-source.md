@@ -1,6 +1,7 @@
 ---
-title: "Open Source - How to Contribute to Open Source"
+title: "How to Contribute to Open Source"
 date: "2020-09-19"
+tag: "Open Source"
 ---
 
 There are many ways to contribute to Open Source projects. The most popular being GitHub.
