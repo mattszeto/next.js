@@ -38,8 +38,8 @@ export default function Home({
               </Link>
               <br />
               <small className={utilStyles.lightText}>
-                <Date dateString={date} />
                 <Tag tagString={tag} />
+                <Date dateString={date} />
               </small>
             </li>
           ))}

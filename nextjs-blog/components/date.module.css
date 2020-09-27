@@ -1,6 +1,6 @@
-.tagElement {
+.dateElement {
   padding: 0;
   margin: 0;
   flex-direction: row;
-  display: inline-flex;
+  float: right;
 }
