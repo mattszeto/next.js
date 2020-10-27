@@ -4,7 +4,7 @@ date: "2020-10-04"
 tag: "React.js"
 ---
 
-###Conditional Rendering
+#### Conditional Rendering
 
 In react you can create distinct components that encapsulate behaviors that you may need. Then, when when you see fit, you are allowed to render them based off **conditions** (state of application).
 
@@ -46,7 +46,8 @@ You can use variables to store elements. This will help you conditionally render
 
 You can use state to help conditionally render a component. This can allow for your webpage to be dynamically rendered without changing everything on the page/component.
 
-####Inline If with Logical && Operator
+##### Inline If with Logical && Operator
+
 Here you can use JSX expressions inside of your JSX to create conditionals.
 
 Example:
@@ -64,7 +65,8 @@ Example:
 
 This will only include the `<h2>` if you have unread messages! Super useful for conditionally including an element inside your component.
 
-#####Inline If/Else
+##### Inline If/Else
+
 Continuing with Inline conditons, you can use `condition ? true : false` in react components.
 
 This can allow you to do crazy things with conditonal rendering and components all over your webpages.
