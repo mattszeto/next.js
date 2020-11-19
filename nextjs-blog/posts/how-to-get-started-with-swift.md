@@ -1,6 +1,6 @@
 ---
 title: "How to Get Started With Swift"
-date: "2020-09-27"
+date: "2020-10-20"
 tag: "Swift"
 ---
 
@@ -12,18 +12,20 @@ Over the course of my time learning how to develop mobile apps, I compiled a lis
 
 ### Udemy
 
-One of my favorite methods of learning new technologies is through videos. My first exposure to Swift was a course off of Udemy, a platform for online courses.
+One of my favorite methods for learning new technologies is through videos. My first exposure to Swift was a course off of Udemy, a platform for online courses.
 
 The course I took was [**iOS 13 & Swift 5 - The Complete iOS App Development Bootcamp**](https://www.udemy.com/course/ios-13-app-development-bootcamp/) by Dr. Angela Yu
 
 ### raywenderlich.com
 
-Another very popular online resource was [raywenderlich's](https://www.raywenderlich.com/ios) compliation of videos for understand everything from the basics of Swift UI to real-world iOS applications.
+Another very popular online resource is [raywenderlich's](https://www.raywenderlich.com/ios) compliation of videos for understand everything from the basics of Swift UI to building real-world iOS applications.
 
-I have not spent that much time on this site, but I do know its a very popular option for people learning Swift.
+I have not spent that much time on this site, but I do know its a very popular option for people learning Swift and people trying to break into the iOS development field.
 
 ### Hacking with Swift
 
 The last resource and my most recent find is [Hacking with Swift](https://www.hackingwithswift.com/learn). They have a program called the 100-day challenge for SwiftUI and UIKit. I 100% recommend them. I do want to emphasis that the pace in the first 30 days of the challenge can be quite slow, but from there it takes off.
+
+I am currently in the process of completing the 100-day challenge and I will be sure to add updates when I do complete it.
 
 Hope this helps and happy hacking (-:
