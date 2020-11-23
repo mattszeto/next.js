@@ -1,7 +1,8 @@
 # next.js
+
 blog (created from next.js docs) of me learning next.js, writing about random things, and everything cs :D
 
-check it out here: https://mattszeto.vercel.app/
+check it out here: https://blog.mattszeto.vercel.app/
 
-deployed by vercel
-inspiration from next.js docs
+**deployed by vercel**
+**inspiration from next.js docs**
