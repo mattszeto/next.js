@@ -5,4 +5,5 @@ blog (created from next.js docs) of me learning next.js, writing about random th
 check it out here: https://blog.mattszeto.vercel.app/
 
 **deployed by vercel**
+
 **inspiration from next.js docs**
